@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Unlocking the Potential Within
-datePublished: '2016-05-04T09:38:58.949Z'
-dateModified: '2016-05-04T09:38:46.338Z'
+datePublished: '2016-05-07T09:56:23.384Z'
+dateModified: '2016-05-04T09:39:05.604Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-unlocking-the-potential-within.md
 authors: []
 publisher:
   name: null
@@ -16,8 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-unlocking-the-potential-within.md
-published: true
 url: unlocking-the-potential-within/index.html
 _type: Article
 
