@@ -1,7 +1,7 @@
 name: GeraldEbenezer
 favicon: null
-layout_spectrum: 0.36108548124320805
-typography_spectrum: 0.4583001765422523
+layout_spectrum: 0.49789
+typography_spectrum: 0.82439
 title: StrategyLeadExecute
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.20740919769741595
+  brandStrength: 0.5625
   lightness: 0.502318067708984
   saturation: 0.5995753379538655
   rhythmicContrast: 0.26987531688064337
